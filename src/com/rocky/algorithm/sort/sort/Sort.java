@@ -1,4 +1,4 @@
-package com.rocky.algorithm.sort;
+package com.rocky.algorithm.sort.sort;
 
 public abstract class Sort<T extends Comparable> {
     protected int exchangeNum = 0;

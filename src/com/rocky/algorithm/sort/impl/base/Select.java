@@ -1,4 +1,6 @@
-package com.rocky.algorithm.sort;
+package com.rocky.algorithm.sort.impl.base;
+
+import com.rocky.algorithm.sort.sort.Sort;
 
 public class Select extends Sort<Integer> {
 
